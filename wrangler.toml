@@ -1,8 +1,12 @@
 name = "my-worker"
 type = "javascript"
 
-account_id = ""
+account_id = "a21589af88503bef2a6d9e0d9f689cc4"
 workers_dev = true
 route = ""
 zone_id = ""
 compatibility_date = "2021-11-07"
+kv_namespaces = [ 
+	 { binding = "MY_KV", id = "2efd1fadf51648ba8b153ce248fa45e6" }
+]
+CF_EMAIL = "shekharreddyadm@gmail.com"
